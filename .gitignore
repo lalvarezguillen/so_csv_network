@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 .env
 .autoenv
 .vscode
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -104,4 +102,3 @@ ENV/
 
 # mypy
 .mypy_cache/
->>>>>>> 69e8a077635f9ec77c32a68458a9005138d12de0
